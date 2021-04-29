@@ -3,7 +3,7 @@
   <PropertyGroup>
     <IsPackable>true</IsPackable>
     <PackageId>Xamarin.Amplitude.Android</PackageId>
-    <Version>2.31.1.1</Version>
+    <Version>2.31.1.2</Version>
     <Description>Contains bindings for https://developers.amplitude.com/docs/android</Description>
     <Authors>Christian Kapplmüller</Authors>
     <Company>fun.music IT GmbH</Company>
