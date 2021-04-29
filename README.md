@@ -10,7 +10,7 @@ NuGet packages are published on [nuget.org](https://www.nuget.org/packages/Xamar
 
 ## Versioning Scheme
 
-The versioning scheme of `Xamarin.Amplitude.Android` is derived from the versioning of `com.revenuecat.purchases:purchases`.
+The versioning scheme of `Xamarin.Amplitude.Android` is derived from the versioning of `com.amplitude:android-sdk`.
 
 ### Example:
 
