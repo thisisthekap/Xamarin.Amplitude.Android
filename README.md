@@ -4,7 +4,9 @@ Xamarin.Android Bindings for Amplitude ([Website](https://amplitude.com), [Setup
 
 ## NuGet Feed
 
-[https://www.nuget.org/packages/Xamarin.Amplitude.Android/](https://www.nuget.org/packages/Xamarin.Amplitude.Android/)
+NuGet packages are built using Azure DevOps: 
+
+NuGet packages are published on [nuget.org](https://www.nuget.org/packages/Xamarin.Amplitude.Android/).
 
 ## Versioning Scheme
 
