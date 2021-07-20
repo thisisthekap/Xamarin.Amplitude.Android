@@ -1,7 +1,7 @@
 ﻿<metadata>
-	<attr path="/api/package[@name='com.amplitude.security']/class[@name='MD5']/method[@name='engineDigest' and count(parameter)=0]" name="visibility">protected</attr>
+	<!-- Why do we need these to be added? attr path="/api/package[@name='com.amplitude.security']/class[@name='MD5']/method[@name='engineDigest' and count(parameter)=0]" name="visibility">protected</attr>
 	<attr path="/api/package[@name='com.amplitude.security']/class[@name='MD5']/method[@name='engineReset' and count(parameter)=0]" name="visibility">protected</attr>
 	<attr path="/api/package[@name='com.amplitude.security']/class[@name='MD5']/method[@name='engineUpdate' and count(parameter)=1 and parameter[1][@type='byte']]" name="visibility">protected</attr>
 	<attr path="/api/package[@name='com.amplitude.security']/class[@name='MD5']/method[@name='engineUpdate' and count(parameter)=3 and parameter[1][@type='byte[]'] and parameter[2][@type='int'] and parameter[3][@type='int']]" name="visibility">protected</attr>
-	<attr path="/api/package[@name='com.amplitude.api']/class[@name='DatabaseHelper']" name="visibility">public</attr>
+	<attr path="/api/package[@name='com.amplitude.api']/class[@name='DatabaseHelper']" name="visibility">public</attr -->
 </metadata>
