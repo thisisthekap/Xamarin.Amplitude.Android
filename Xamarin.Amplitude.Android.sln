@@ -5,7 +5,7 @@ VisualStudioVersion = 16.6.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Amplitude.Android.UsageChecker", "Xamarin.Amplitude.Android.UsageChecker\Xamarin.Amplitude.Android.UsageChecker.csproj", "{6C9A6205-5B0E-4415-B2C0-0CA7DF31E2E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Amplitude.Android.Copy", "Xamarin.Amplitude.Android.Copy\Xamarin.Amplitude.Android.Copy.csproj", "{A4A55FFB-E240-4A47-9381-03053E88CB94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Amplitude.Android", "Xamarin.Amplitude.Android.Copy\Xamarin.Amplitude.Android.csproj", "{A4A55FFB-E240-4A47-9381-03053E88CB94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
