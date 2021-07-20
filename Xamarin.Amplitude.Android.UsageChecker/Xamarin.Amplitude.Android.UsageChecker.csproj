@@ -105,7 +105,7 @@
     <PackageReference Include="Xamarin.Kotlin.StdLib" Version="1.4.10" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Xamarin.Amplitude.Android.Copy\Xamarin.Amplitude.Android.csproj">
+    <ProjectReference Include="..\Xamarin.Amplitude.Android\Xamarin.Amplitude.Android.csproj">
       <Project>{a4a55ffb-e240-4a47-9381-03053e88cb94}</Project>
       <Name>Xamarin.Amplitude.Android</Name>
     </ProjectReference>
