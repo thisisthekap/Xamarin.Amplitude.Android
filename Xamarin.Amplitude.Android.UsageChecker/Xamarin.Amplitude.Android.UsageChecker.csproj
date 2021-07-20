@@ -106,7 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Xamarin.Amplitude.Android\Xamarin.Amplitude.Android.csproj">
-      <Project>{a4a55ffb-e240-4a47-9381-03053e88cb94}</Project>
+      <Project>{85d6b5bf-5b45-414c-a02f-457df54bce61}</Project>
       <Name>Xamarin.Amplitude.Android</Name>
     </ProjectReference>
   </ItemGroup>
