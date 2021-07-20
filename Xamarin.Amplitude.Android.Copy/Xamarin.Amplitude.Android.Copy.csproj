@@ -50,7 +50,6 @@
     <TransformFile Include="Transforms\EnumFields.xml" />
     <TransformFile Include="Transforms\EnumMethods.xml" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <LibraryProjectZip Include="Jars\android-sdk-2.31.4.aar" />
   </ItemGroup>
